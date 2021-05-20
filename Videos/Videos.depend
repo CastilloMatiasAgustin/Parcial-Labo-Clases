@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1621294357 source:/home/angel/UTN/LAB2/VideosProject/Videos/Fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 /home/angel/UTN/LAB2/VideosProject/Videos/Fecha.h
+
+1621295760 source:/home/angel/UTN/LAB2/VideosProject/Videos/main.cpp
+	<iostream>
+	"Video.h"
+
+1621295227 /home/angel/UTN/LAB2/VideosProject/Videos/Video.h
+	"Fecha.h"
+
+1621295224 source:/home/angel/UTN/LAB2/VideosProject/Videos/Video.cpp
+	<iostream>
+	<cstring>
+	"Video.h"
+
+1621294357 source:c:\users\castillo\desktop\videos\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 c:\users\castillo\desktop\videos\fecha.h
+
+1621551030 source:c:\users\castillo\desktop\videos\src\laralce.cpp
+	"Laralce.h"
+
+1621550805 c:\users\castillo\desktop\videos\include\laralce.h
+	<cstdlib>
+	<iostream>
+
+1621295224 source:c:\users\castillo\desktop\videos\video.cpp
+	<iostream>
+	<cstring>
+	"Video.h"
+
+1621295227 c:\users\castillo\desktop\videos\video.h
+	"Fecha.h"
+
+1621549048 source:c:\users\castillo\desktop\videos\main.cpp
+	<iostream>
+	"Video.h"
+	"Laralce.h"
+
